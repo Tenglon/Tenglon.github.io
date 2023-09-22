@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Amsterdam</a>. MultiX.
+subtitle: <a href='#'>University of Amsterdam</a>. MultiX. uestc.longteng@gmail.com
 
 profile:
   align: right
