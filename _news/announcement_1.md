@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-one ICCV paper was accepted.
+One ICCV paper was accepted.
