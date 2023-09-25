@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We won the first place in ICPR ODOR challenge.
+title: We won first place in the ICPR ODOR challenge.
 date: 2022-08-22 16:11:00-0400
 inline: false
 related_posts: false
