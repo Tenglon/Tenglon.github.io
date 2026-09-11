@@ -1,0 +1,33 @@
+{
+  "retrieved": "2026-09-11",
+  "assets": [
+    {
+      "filename": "merano-whirlpool.jpg",
+      "source_page": "https://www.termemerano.it/en/pools-sauna/indoorpools/",
+      "image_url": "https://typo3.termemerano.it/fileadmin/user_upload/055-therme-models-_KOTTERSTEGER-220512-KOT_5613.jpg",
+      "credit": "Terme Merano / KOTTERSTEGER",
+      "credit_basis": "Photographer name in official image filename.",
+      "description": "Couple relaxing in bubbling outdoor whirlpool beside the Terme Merano glass facade; portrait image.",
+      "width": 1333,
+      "height": 2000,
+      "suggested_object_position": "50% 75%",
+      "visual_inspection": "Downloaded original and inspected using view_image; correct venue, actual whirlpool photo."
+    },
+    {
+      "filename": "merano-pool-evening.jpg",
+      "source_page": "https://www.termemerano.it/en/pools-sauna/indoorpools/",
+      "image_url": "https://typo3.termemerano.it/fileadmin/user_upload/Pools_Sauna/Badehalle_und_Ruher%C3%A4ume/__Oliver_Jaist.jpg",
+      "credit": "Terme Merano / Oliver Jaist",
+      "credit_basis": "Photographer name in official image filename.",
+      "description": "Illuminated turquoise indoor pools under curved warm ceiling lights and glass architecture at dusk; landscape image.",
+      "width": 2500,
+      "height": 1667,
+      "suggested_object_position": "50% 60%",
+      "visual_inspection": "Downloaded original and inspected using view_image; strong evening pool architecture photograph."
+    }
+  ],
+  "official_information_pages": [
+    "https://www.termemerano.it/en/prices-and-information/prices/",
+    "https://www.termemerano.it/en/prices-and-information/opening-hours/"
+  ]
+}
