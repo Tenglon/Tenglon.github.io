@@ -43,5 +43,13 @@
     "Sunset is astronomical; surrounding peaks may hide direct sun earlier.",
     "Earlier web-cache provincial pages showed outdated9–10Sep issue; direct fetch obtained11Sep11:00 latest bulletin. Do not retain old70% reliability assertion for Saturday: latest mobile bulletin does not show Saturday reliability."
   ],
-  "elevation_source": "https://www.seiseralm.it/media/8981530c-cdb0-44c8-b40b-5918376b687d/20260205120828/09-seiser-alm-groeden-screen-2.pdf"
+  "elevation_source": "https://www.seiseralm.it/media/8981530c-cdb0-44c8-b40b-5918376b687d/20260205120828/09-seiser-alm-groeden-screen-2.pdf",
+  "mont_seuc_update": {
+    "retrieved_at": "2026-09-11T13:14:56.490689+00:00",
+    "latitude": 46.5579,
+    "longitude": 11.6647,
+    "elevation": 2000,
+    "source_url": "https://api.open-meteo.com/v1/forecast?latitude=46.5579&longitude=11.6647&elevation=2000&hourly=temperature_2m%2Capparent_temperature%2Cprecipitation_probability%2Cprecipitation%2Cweather_code%2Cwind_speed_10m%2Cwind_gusts_10m&daily=sunrise%2Csunset&timezone=Europe%2FRome&start_date=2026-09-12&end_date=2026-09-12",
+    "note": "Mont Seuc replaces Compatsch as the displayed plateau forecast; older town snapshots remain unchanged."
+  }
 }
