@@ -245,7 +245,7 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ['robots.txt']
+  exclude: ['robots.txt', 'alpine-weekend/*']
   uglifier_args:
     harmony: true
 

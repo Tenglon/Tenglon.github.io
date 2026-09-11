@@ -1,0 +1,47 @@
+{
+  "forecast_date": "2026-09-12",
+  "timezone": "Europe/Rome",
+  "retrieved_display": "11 Sep 2026, 14:31 CEST",
+  "official_bulletins": [
+    {
+      "url": "https://www.provinz.bz.it/weather/mobile/bergwetter.asp",
+      "issued_local": "2026-09-11T11:00:00+02:00",
+      "valid_for": "2026-09-12",
+      "title": "Bright and sunny",
+      "summary": "High pressure and dry air bring stable Alpine weather. Mountains have stable conditions through the day, excellent visibility and rising temperatures.",
+      "scope": "South Tyrol mountains as a region; no hourly Compatsch temperature or wind supplied"
+    },
+    {
+      "url": "https://www.provinz.bz.it/weather/mobile/suedtirol.asp",
+      "issued_local": "2026-09-11T11:00:00+02:00",
+      "valid_for": "2026-09-12",
+      "title": "Bright and sunny",
+      "summary": "Any local morning fog clears quickly, followed by cloudless sunshine across the region. Cool morning and daytime maximum temperatures of 23–27°C across provincial locations.",
+      "scope": "Regional/valley values; do not use the 23–27°C range for the 1850m plateau"
+    }
+  ],
+  "open_meteo": {
+    "docs": "https://open-meteo.com/en/docs",
+    "issue_time": "Not provided by forecast endpoint; label as retrieved/checked time only.",
+    "coordinate_selection": "Compatsch requested 46.541,11.617 at explicitly set 1850m elevation; returned grid centre 46.54,11.619999.",
+    "elevation_method": "Provider statistically adjusts forecast to requested elevation. Town elevations in results are provider-derived.",
+    "precipitation_probability": "Probability of >0.1mm in the preceding hour, ensemble model with roughly 27km resolution. All relevant hours return 0%, not a guarantee of no rain.",
+    "wind": "10m wind; gust is maximum over preceding hour; exposed trails may differ.",
+    "weather_codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy"
+    },
+    "time_resolution": "Hourly only; no exact 18:30 value. Use bracket 18:00–19:00 or describe approximately25°C."
+  },
+  "usage_notes": [
+    "Model forecast values, not measurements.",
+    "Use plateau 09:00–17:00 temperatures 9.1–14.2°C; round display to 9–14°C.",
+    "At 09:00 feels-like 6.6°C; layer recommendation justified by cool start.",
+    "Bolzano 18:00–19:00 24.9–24.4°C,20:00 20.1°C,21:00 17.3°C.",
+    "Vipiteno18:00 19.1°C, feels-like16°C; wind9.8km/h, gust19.8km/h.",
+    "Sunset is astronomical; surrounding peaks may hide direct sun earlier.",
+    "Earlier web-cache provincial pages showed outdated9–10Sep issue; direct fetch obtained11Sep11:00 latest bulletin. Do not retain old70% reliability assertion for Saturday: latest mobile bulletin does not show Saturday reliability."
+  ],
+  "elevation_source": "https://www.seiseralm.it/media/8981530c-cdb0-44c8-b40b-5918376b687d/20260205120828/09-seiser-alm-groeden-screen-2.pdf"
+}
